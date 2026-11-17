@@ -3,7 +3,7 @@ name = "SigmaOS-application-permission-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "application-permission-management component"
+description = "Application Permission Management"
 upstream = []
 
 [contract]
